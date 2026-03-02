@@ -1,0 +1,5 @@
+{
+  "name": "Global Time Scheduler",
+  "description": "A modern scheduling app to track and compare time across various global locations.",
+  "requestFramePermissions": ["geolocation"]
+}
